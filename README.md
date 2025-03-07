@@ -1,0 +1,1 @@
+CRUD app with Next.js, Prisma and PostgreSQL.
