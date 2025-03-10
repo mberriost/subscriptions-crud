@@ -99,7 +99,7 @@ export default function SubscriptionForm({
           onClick={onCancel}
           className="w-full sm:w-auto order-2 sm:order-1"
         >
-          Cancelar
+          Cancel
         </Button>
         <Button 
           type="submit"

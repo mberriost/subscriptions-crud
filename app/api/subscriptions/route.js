@@ -13,7 +13,6 @@ export async function POST(request) {
         );
       }
   
-      // Crear la suscripción en la base de datos
       const newSubscription = await prisma.subscription.create({
         data: {
           name,
